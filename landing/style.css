@@ -405,6 +405,7 @@ margin-left: 20px;
     scale: 120%;
   }
   .first2{
+    display: inline;
     height: 50px;
     width: 50px;
   }
@@ -457,7 +458,7 @@ margin-left: 20px;
  
     display:block;
     background-color:bisque;
-    height: 80vh;
+    height: 72vh;
     width:100%;
     margin:1px;
     margin-top: 20px;
@@ -468,9 +469,10 @@ margin-left: 20px;
   .contact{
     margin-top: 10px;
   display: block;
-    height :300px;
+  
+    height :250px;
     width:90%;
-    background-color: white;
+    background-color:white;
     margin:20px;
   }
   .logo-part{
